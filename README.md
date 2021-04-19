@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @dhayalaraj2k
-- 👀 I’m interested in contributing to Open Source Softwares
+- 👀 I’m interested in contributing to Open Source Software
 - 🌱 I’m currently learning Spring Framework
 - 💞️ I’m looking to collaborate on Open Source projects based on Java language and Spring Framework(Optional)
 - 📫 How to reach me -> dhayalaraj2k@gmail.com
